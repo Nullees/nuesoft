@@ -1,0 +1,408 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 8px 0px 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #fff
+}
+.hide {
+	DISPLAY: none
+}
+.alignCen {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.fLeft {
+	FLOAT: left
+}
+.fRig {
+	FLOAT: right
+}
+DIV {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+H1 {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+H2 {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+SPAN {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+FORM {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+UL {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+LI {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+IMG {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+IFRAME {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+INPUT {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+SELECT {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BUTTON {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	FONT-WEIGHT: normal
+}
+H2 {
+	FONT-WEIGHT: normal
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif,"宋体"
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif,"宋体"
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif,"宋体"
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif,"宋体"
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif,"宋体"
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif,"宋体"
+}
+.f10w {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #d70000
+}
+.f12b {
+	FONT-SIZE: 12px; COLOR: #0000ff
+}
+.f12w {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+.f12h {
+	FONT-SIZE: 12px; COLOR: #333
+}
+.f12cw {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #174b73
+}
+.f12r {
+	FONT-SIZE: 12px; COLOR: #cd021a
+}
+.f12e {
+	FONT-SIZE: 12px; COLOR: #000
+}
+.f12f {
+	FONT-SIZE: 12px; COLOR: #666
+}
+.f13hw {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #265282
+}
+.f13 {
+	FONT-SIZE: 13px
+}
+.f14y {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ef003e
+}
+.f14b {
+	FONT-SIZE: 14px; COLOR: #21456e
+}
+.f14w {
+	FONT-SIZE: 14px; COLOR: #ffffff
+}
+.f14c {
+	FONT-SIZE: 14px; COLOR: #436e9d
+}
+.f14e {
+	FONT-SIZE: 14px; COLOR: #fff
+}
+.f14f {
+	FONT-SIZE: 14px; COLOR: #333
+}
+.f15b {
+	FONT-WEIGHT: bolder; FONT-SIZE: 15px
+}
+.f12b2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666
+}
+.f16b {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #1752a0
+}
+A {
+	COLOR: #174b73; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.bgcolor1 {
+	BACKGROUND-COLOR: #ffffff
+}
+.bgcolor2 {
+	BACKGROUND-COLOR: #73a2d6
+}
+.bgcolor3 {
+	BACKGROUND-COLOR: #e6eef7
+}
+.bgcolor4 {
+	BACKGROUND-COLOR: #ebf2f9
+}
+.bgcolor5 {
+	BACKGROUND-COLOR: #9fbfe3
+}
+.bgcolor6 {
+	BACKGROUND-COLOR: #f2feff
+}
+.bgcolor7 {
+	BACKGROUND-COLOR: #456180
+}
+.bgcolor8 {
+	BACKGROUND-COLOR: #e6eef7
+}
+.bgcolor11 {
+	BACKGROUND-COLOR: #f7f7f7
+}
+.bgcolor10 {
+	BACKGROUND-COLOR: #f0f0f0
+}
+.bgcolor9 {
+	BACKGROUND-COLOR: #9fbfe3
+}
+.line1 {
+	BORDER-BOTTOM: #88acd9 1px solid
+}
+.line2 {
+	BORDER-TOP: #88acd9 1px solid; BORDER-BOTTOM: #88acd9 1px solid
+}
+.btnFnt {
+	BORDER-RIGHT: #3b6592 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #3b6592 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/163blue/bntfnt_bg.gif); PADDING-BOTTOM: 2px; BORDER-LEFT: #3b6592 1px solid; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #3b6592 1px solid
+}
+.txInput {
+	BORDER-RIGHT: #3b6592 1px solid; BORDER-TOP: #3b6592 1px solid; BORDER-LEFT: #3b6592 1px solid; BORDER-BOTTOM: #3b6592 1px solid
+}
+.txSelect {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial; HEIGHT: 16px
+}
+.whitebar {
+	BORDER-TOP: black 1px solid; BORDER-BOTTOM: black 1px solid
+}
+.p160 {
+	LINE-HEIGHT: 160%
+}
+.btn {
+	FONT-SIZE: 12px; BACKGROUND-COLOR: #ffffff
+}
+.unread {
+	COLOR: #ff0000
+}
+.tbl1 {
+	BORDER-LEFT: #c1cdd8 1px solid; BORDER-BOTTOM: #c1cdd8 1px solid; BORDER-COLLAPSE: collapse; EMPTY-CELLS: show
+}
+.tbl2 {
+	BORDER-RIGHT: #c1cdd8 1px solid; BORDER-BOTTOM: #c1cdd8 1px solid; BORDER-COLLAPSE: collapse; EMPTY-CELLS: show
+}
+.tbl {
+	BORDER-BOTTOM: #c1cdd8 1px solid; BORDER-COLLAPSE: collapse; EMPTY-CELLS: show
+}
+#divTopNav {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/topnav_bg.jpg) #73a2d6 repeat-x
+}
+.searchICO {
+	BORDER-RIGHT: #3b6592 1px solid; BORDER-TOP: #3b6592 1px solid; BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/search_ico.gif) no-repeat; BORDER-LEFT: #3b6592 1px solid; BORDER-BOTTOM: #3b6592 1px solid
+}
+A.navNml {
+	BORDER-TOP: #adbbc7 1px solid; BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/topnav_sep.gif) #f6f8f9 repeat-x 0% 50%; BORDER-BOTTOM: #5085c5 1px solid
+}
+A.navNml:hover {
+	TEXT-DECORATION: none
+}
+A.navOn {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/163blue/topnav_on.gif)
+}
+A.noSep {
+	BACKGROUND-IMAGE: none
+}
+A.last {
+	BACKGROUND-IMAGE: none
+}
+#divImpBtn DIV.impBtn {
+	BORDER-RIGHT: #2d6099 1px solid; BORDER-TOP: #fff 1px solid; BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/impbnt_bg.jpg) repeat-x 50% top; BORDER-LEFT: #fff 1px solid; BORDER-BOTTOM: #2d6099 1px solid
+}
+.menuBar {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/163blue/menu_topbg.jpg); BORDER-BOTTOM: #999 1px solid
+}
+.submenuBar {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: 0px; BACKGROUND: url(http://mimg.163.com/jsstyle/images/sepline.gif) #fff repeat-x 50% top; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: 0px
+}
+.menuBody {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: 0px; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: 0px
+}
+.menuLi {
+	BACKGROUND-POSITION: 6% 45%; BACKGROUND-REPEAT: no-repeat
+}
+.icoUnRead {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoUnread.gif)
+}
+.icoInBox {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoInbox.gif)
+}
+.icoDraft {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoDraft.gif)
+}
+.icoSend {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoSendmail.gif)
+}
+.icoDel {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoDelmail.gif)
+}
+.icoSpam {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoSpam.gif)
+}
+.icoMyFolder {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoFolder.gif)
+}
+.icoPop3f {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoFolder.gif)
+}
+.icoCards {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/ico_test.gif)
+}
+.icoRemind {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/ico_test.gif)
+}
+.icoVirus {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/ico_test.gif)
+}
+.icoShop {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/ico_test.gif)
+}
+LI.navOn {
+	BORDER-RIGHT: #999 1px solid; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: #999 1px solid; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #ebf2f9
+}
+LI.navOn2 {
+	BORDER-RIGHT: #999 1px solid; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: #999 1px solid; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #efefef
+}
+.bntOpenMunu {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/images/bntopen.gif) no-repeat
+}
+.bntCloseMunu {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/images/bntopen.gif) no-repeat
+}
+.bntCloseMunu {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/images/bntclose.gif)
+}
+.divMTitLe {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/menu_tople.jpg) no-repeat
+}
+.divMTitRi {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/menu_tople.jpg) no-repeat
+}
+.divMTitRi {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/163blue/menu_topri.jpg)
+}
+.divMBot {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/menu_bot.gif) no-repeat
+}
+.tdRigMain {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/163blue/page_conn.jpg) #fff no-repeat
+}
+INPUT.icoToolWrtmail {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/ToolWrtmail.gif)
+}
+INPUT.icoToolGetmail {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/ToolGetmail.gif)
+}
+INPUT.icoToolReflesh {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolReflesh.gif)
+}
+INPUT.icoToolBack {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolBack.gif)
+}
+INPUT.icoToolRe {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolRe.gif)
+}
+INPUT.icoToolDel {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolDel.gif)
+}
+INPUT.icoToolEmpty {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolClear.gif)
+}
+INPUT.icoToolMove {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolMove.gif)
+}
+INPUT.icoToolSend {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolSend.gif)
+}
+INPUT.icoToolDraft {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolDraft.gif)
+}
+INPUT.icoToolAddFile {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolFile.gif)
+}
+INPUT.icoToolPreView {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolPview.gif)
+}
+INPUT.icoToolFlag {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolFlag.gif)
+}
+INPUT.icoToolForward {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolTsmit.gif)
+}
+INPUT.icoToolRefuse {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolRfus.gif)
+}
+INPUT.icoToolCards {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolCards.gif)
+}
+INPUT.icoToolPre {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolPre.gif)
+}
+INPUT.icoToolNxt {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolNxt.gif)
+}
+INPUT.iconToolMletter {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolMletter.gif)
+}
+INPUT.iconToolMletter2 {
+	BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/toolMletter2.gif)
+}
+INPUT.smlSepline {
+	BORDER-LEFT: #999 1px solid
+}
+LI.btnOut {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BACKGROUND-COLOR: #fff
+}
+LI.btnOn {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; COLOR: #082042; BORDER-BOTTOM: #666 1px solid; BACKGROUND-COLOR: #efefef
+}
+.divWrite {
+	BORDER-RIGHT: #96a6bd 1px solid; BORDER-TOP: #96a6bd 1px solid; BORDER-LEFT: #96a6bd 1px solid; BORDER-BOTTOM: #96a6bd 1px solid
+}
+.wTop {
+	BACKGROUND-POSITION: 3px 45%; BACKGROUND-IMAGE: url(http://mimg.163.com/jsstyle/icon/icoTip.gif); BACKGROUND-REPEAT: no-repeat
+}
+.icoFile {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/icon/icoAddFl.gif) no-repeat 0px 4px
+}
+.icoNdFile {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/icon/icoAddNdFl.gif) no-repeat 0px 4px
+}
+.icoPhoto {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/icon/icoAddPto.gif) no-repeat -4px 2px
+}
+.icoLpaper {
+	BACKGROUND: url(http://mimg.163.com/jsstyle/icon/icoAddLpaper.gif) no-repeat 0px 2px
+}
+#divWadsBook {
+	BORDER-RIGHT: #b5cbe7 1px solid; BORDER-TOP: #b5cbe7 1px solid; BORDER-LEFT: #b5cbe7 1px solid; BORDER-BOTTOM: #b5cbe7 1px solid
+}
+.wAdsBkTit {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid
+}
+.wAdsBkBot {
+	BORDER-BOTTOM: #fff 1px solid
+}
+INPUT.wRowInput {
+	PADDING-TOP: 2px
+}

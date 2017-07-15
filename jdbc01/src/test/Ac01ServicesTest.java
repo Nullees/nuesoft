@@ -1,5 +1,7 @@
 package test;
 
+import java.util.Map;
+
 import com.neusoft.services.Ac01Services;
 
 public class Ac01ServicesTest {
@@ -8,7 +10,9 @@ public class Ac01ServicesTest {
 	{
 		try 
 		{
-			Ac01ServicesTest.addTest();
+			Ac01ServicesTest
+							//.addTest();
+			                .findByIdTest();
 		}
 		catch (Exception e) 
 		{
@@ -16,6 +20,12 @@ public class Ac01ServicesTest {
 		}
 	}
 	
+	private static void findByIdTest()throws Exception
+	{
+		Ac01Services services=new Ac01Services();
+		Map<String,String> ins=services.findById(1);
+		System.out.println(ins);
+	}
 	
 	private static void addTest()throws Exception
 	{

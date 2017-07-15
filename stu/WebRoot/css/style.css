@@ -1,0 +1,167 @@
+*{
+    font-family: 微软雅黑, 楷体, 华文新魏, 仿宋_GB2312, 楷体_GB2312;
+    font-size: 14px;
+}
+body{
+    background-color: #f3ffe3;
+}
+
+msg{
+    font-family: 黑体;
+    
+    color: #FF0000;
+	
+}
+#msg{
+     font-family: 黑体;
+     font-size: 16px;
+     color: #FF0000;
+}
+
+.query,.data,.button{
+    margin: 0 auto;
+    width: 95%;
+    padding: 1px;
+}
+
+table{
+    width: 100%;
+    background-color: #7ec2de;
+    border: 1px solid #28b286;
+    border-spacing: 1px;
+}
+
+table caption{
+    font-family: 黑体;
+    font-size: 18px;
+    color: #28b286;
+}
+
+table caption hr{
+    border-color: #28b286 ;
+    width: 160px;
+}
+
+table tr td{
+    height: 24px;
+}
+
+.title{
+    background-image: url("title_bg1.jpg");
+}
+
+.title td{
+    font-family: 黑体;
+    font-size: 16px;
+    padding: 3px;
+}
+
+.query tr{
+    height: 26px;
+    background-color: #EAFCD5;
+    padding: 3px;
+}
+
+.data .title td{
+    text-align: center;
+}
+
+.data tr{
+    background-color: #EAFCD5;
+}
+
+input{
+    width: 150px;
+    height: 22px;
+}
+
+input,select{
+    width: 150px;
+    height: 24px;
+}
+
+
+input[type="radio"],input[type="checkbox"]{
+    width: 14px;
+    height: 14px;
+}
+
+input[type="number"]{
+    text-align: right;
+}
+
+
+
+input[type="submit"],input[type="button"]{
+    height: 22px;
+    width:50px;
+    font-size: 12px;
+    font-family: 微软雅黑, 黑体;
+    text-align: center;
+}
+
+input[type="submit"]:active, button:active  {
+     outline: thick solid #aaa
+}
+
+.link{
+    text-align: center;
+}
+
+a {
+    font-size:14px;
+    text-decoration:none;
+    color: black;
+}
+
+.button table tr{
+    background-image: url("title_bg1.jpg");
+    text-align: center;
+}
+
+.edit,.edit_button{
+    width: 65%;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+.edit table tr td{
+    padding: 3px;
+}
+
+.edit_button table tr{
+    background-image: url("title_bg1.jpg");
+    text-align: center;
+}
+
+
+
+.edit2,.edit_button2{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+.edit tr,.edit2 tr{
+    background-color: #EAFCD5;
+}
+
+.edit2 table tr td{
+    padding: 3px;
+}
+
+.edit_button2 table tr{
+    background-image: url("title_bg1.jpg");
+    text-align: center;
+}
+.vtextarea{
+
+    height: 100px;
+    width:300px;
+}
+
+.Pagination
+{
+  font-family:"Webdings";
+  font-size:18px;
+}

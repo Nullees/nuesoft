@@ -100,6 +100,20 @@ public final class DBUtils
     	}
     }
 
+    public static void close(ResultSet rs)
+    {
+    	try
+    	{
+    		if(rs!=null)
+    		{
+    			rs.close();
+    		}
+    	}
+    	catch(Exception ex)
+    	{
+    		ex.printStackTrace();
+    	}
+    }
     
     public static void close(Connection conn)
     {
